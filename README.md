@@ -22,6 +22,7 @@ Create a new folder named receipt-processor on your local computer.
 
 Open a terminal and navigate to the folder:
 
+'''sh
 mkdir receipt-processor
 cd receipt-processor
 
@@ -29,12 +30,14 @@ cd receipt-processor
 
 Run the following command to create a package.json file:
 
+'''sh
 npm init -y
 
 3. Install Dependencies
 
 Install Express.js and Body-parser:
 
+'''sh
 npm install express body-parser
 
 4. Create Project Files
@@ -43,8 +46,10 @@ Create the following files inside the receipt-processor folder:
 
 index.js → Main application entry file.
 
+'''sh
 routers/receiptRouter.js → Handles API requests.
 
+'''sh
 services/receiptService.js → Contains receipt processing logic.
 
 You can manually create these files using a text editor like VS Code or use:
