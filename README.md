@@ -1,8 +1,8 @@
-Receipt Processor
+**Reward Points Generator**
 
 Project Description
 
-The Receipt Processor is a web service that allows users to submit receipts and calculates reward points based on specific rules. The application is built using Node.js and Express.js, making it lightweight and easy to deploy. This project is designed to store receipt data in memory without database persistence.
+The Reward points generator is a web service that allows users to submit receipts and calculates reward points based on specific rules. The application is built using Node.js and Express.js, making it lightweight and easy to deploy. This project is designed to store receipt data in memory without database persistence.
 
 How the Project Works
 
